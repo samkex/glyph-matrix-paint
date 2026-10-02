@@ -118,8 +118,9 @@ reports that the panel takes the full range. Both against the Glyph Matrix Devel
 ## Licence
 
 Copyright © 2026 Keith Chan. All rights reserved. The page is free to use; its design, code, text
-and images are not licensed for reuse. The page's icons are Nothing's and are not covered by this
-notice. See [LICENSE](LICENSE).
+and images are not licensed for reuse. A drawing you make with it and export is yours; a frame drawn
+by Template 01 is Orbit Dial's dial, under Orbit Dial's own licence and notice. The page's icons are
+Nothing's and are not covered by this notice. See [LICENSE](LICENSE).
 
 The page embeds the Geist and Geist Mono typefaces, which are under the SIL Open Font License 1.1;
 the licence travels inside the page.

@@ -62,8 +62,9 @@ and switching phone loads that phone's.
 | Minute size | 1 to 4 | 2 | 2 |
 
 **Minute hand** chooses between **Solid**, a block of whole LEDs whose side is Minute size, and
-**Smoothed**, which spreads the minute over the nearest cells by weight so its centre of light moves
-every minute (Minute size does not apply to it).
+**Smoothed**, which spreads the minute over the nearest cells by weight, so its centre of light moves
+from one minute to the next (Minute size does not apply to it). Either is drawn only where the panel
+has LEDs: at a large Minute orbit the mark falls outside the disc and is not shown.
 
 Painting, Clear and Invert switch to Blank canvas first and act on what the template drew:
 painting adds to the dial, Invert flips it, Clear empties it. Undo also switches to Blank canvas,
